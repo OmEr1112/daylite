@@ -1,3 +1,3 @@
 # Daylite-app
 
-Watch how this project looks here: https://omer1112.github.io/daylite-app/
+Wanna see how this project looks? Link is in description.
