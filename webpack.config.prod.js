@@ -2,7 +2,7 @@ const path = require('path');
 const ExtractTextPlugin = require('extract-text-webpack-plugin');
 const autoprefixer = require('autoprefixer');
 const cssnano = require('cssnano');
-
+t// this is test
 const extractSass = new ExtractTextPlugin({
   filename: "style.css"
 });
