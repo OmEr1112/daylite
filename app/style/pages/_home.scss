@@ -1,44 +1,98 @@
 .header_container {
   background-color: white;
   width: 100%;
+
+  @media screen and (max-width:1120px) {
+    width: 112rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
 }
 
 .intro_container {
   background-color: #2a2a2a;
   width: 100%;
+
+  @media screen and (max-width:1120px) {
+    width: 112rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
 }
 
 .buy_container {
   background-color: #f4f4f4;
   width: 100%;
+
+  @media screen and (max-width:1120px) {
+    width: 112rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
 }
 
 .process_container {
   background-color: white;
   width: 100%;
+
+  @media screen and (max-width:1120px) {
+    width: 112rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
 }
 
 .stuff_container {
   background-color: white;
   width: 100%;
+
+  @media screen and (max-width:1120px) {
+    width: 112rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
 }
 
 .postAbout_container {
   background-color: white;
   width: 100%;
+
+  @media screen and (max-width:1120px) {
+    width: 112rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
 }
 
 .testimonial_container {
   background-color: #f4f4f4;
   width: 100%;
+
+  @media screen and (max-width:1120px) {
+    width: 112rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
 }
 
 .footer_container {
   background-color: #393939;
   width: 100%;
+
+  @media screen and (max-width:1120px) {
+    width: 112rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
 }
 
 .copyright_container {
   background-color: #333333;
   width: 100%;
+
+  @media screen and (max-width:1120px) {
+    width: 112rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
 }
