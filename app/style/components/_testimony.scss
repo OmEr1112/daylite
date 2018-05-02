@@ -1,0 +1,28 @@
+.testimony {
+  width: 80%;
+  margin: 0 auto;
+  color: #767676;
+  padding: 5rem 0;
+
+  span:first-of-type {
+    font-size: 9rem;
+    display: block;
+    text-align: center;
+    line-height: 0;
+    margin-bottom: 2rem;
+  }
+
+  p {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 1.5rem;
+  }
+
+  span:last-of-type {
+    font-size: 1.4rem;
+    display: block;
+    text-align: center;
+    color: #a89574;
+  }
+}

@@ -1,0 +1,54 @@
+.process {
+  width: 80%;
+  margin: 0 auto;
+  padding: 5rem 0;
+  color: #767676;
+
+  &_heading {
+    margin-bottom: 2rem;
+  }
+
+  &_para {
+    margin-bottom: 2rem;
+  }
+
+  &_steps {
+    display: flex;
+
+    & > div {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      flex-basis: 100%;
+
+      h3 {
+        font-size: 1.6rem;
+        margin-bottom: 2rem;
+      }
+
+      p {
+        font-size: 1.2rem;
+        text-align: center;
+        width: 100%;
+      }
+
+      & > div {
+        text-align: center;
+        background-color: #f0f0f0;
+        width: 6rem;
+        height: 6rem;
+        border-radius: 50%;
+        position: relative;
+        margin-bottom: 2rem;
+
+        
+
+        svg {
+          @include absCenter;
+          padding: .5rem;
+        }
+      }
+    }
+  }
+}
